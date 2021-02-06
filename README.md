@@ -1,5 +1,7 @@
 # Storing-and-Retrieving-Data---SQL
 
+## Scored 18 out of 20
+
 Create a fictitious online shop of products or services. 
 Design and create an ERD in MySQL workbench for a small online shop of any products and/or services. 
 
